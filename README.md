@@ -7,9 +7,8 @@
 ---
 
 ## 📬 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/nikhil-mahale-293987271/) → professional updates and networking 
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-mahale-293987271)→ professional updates and networking 
 - 📧 Email: nikhilmahale456@gmail.com
-- 📂 [Pandas Repo](https://github.com/nikhilhere7/pandas) → Daily progress on learning Pandas from basics. 
 
 ---
 ⭐ Check out my repos and feel free to connect if you’re into **data, analytics, and visualization!**
