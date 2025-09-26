@@ -1,22 +1,27 @@
-# Hi 👋, I'm Nikhil Mahale
+# Hi 👋, I'm Nikhil Mahale  
 
-🎯 Data Analyst transforming complex datasets into actionable business insights  
-📊 Specializing in Financial Analysis and Business Intelligence  
-🐍 Python enthusiast with strong SQL foundations  
+💡 Data Analyst passionate about turning raw data into business insights.  
+📊 Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL**, and **Excel**.  
+📈 Exploring **Financial Analysis** and **Data Visualization**.  
+
 ---
-## 🛠️ Technical Arsenal
 
-**Languages:** Python, SQL  
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Machine Learning:** Scikit-learn (fundamentals)  
-**Tools:** Jupyter Notebooks, Excel, Git/GitHub  
-**Domains:** Financial Analytics, Business Intelligence  
+## 🔧 Tech Stack  
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (basics)  
+- **Tools:** Jupyter, Excel, Git/GitHub  
+
 ---
-## 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/nikhil-mahale-293987271) - Professional updates & networking  
-📧 nikhil1mahale4569@gmail.com - Project collaborations & opportunities  
+## 🚀 Current Work  
+- 📂 [Pandas Repo](https://github.com/nikhilhere7/pandas) → Daily progress on learning Pandas from basics.  
+- 🏗️ Building projects around **financial & business datasets**.  
+
 ---
-💡 Always open to discussing data analytics, sharing insights, and exploring opportunities!
 
-⭐ Star my repositories if you find them valuable - feedback welcome!
+## 📬 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 📧 Email: your.email@example.com  
+
+---
+⭐ Check out my repos and feel free to connect if you’re into **data, analytics, and visualization!**
